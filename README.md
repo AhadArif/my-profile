@@ -23,8 +23,8 @@ I have a deep interest in **cloud**, **development**, **websites**, and **SEO**.
 
 ## 🚀 Projects and Contributions  
 Here are some projects I’ve worked on:  
-- **[Project 1 Name](https://github.com/your-username/project-1)** - Short description of the project.  
-- **[Project 2 Name](https://github.com/your-username/project-2)** - Short description of the project.  
+- **[Project 1 Name](https://github.com/AhadArif/Simple-Website)** - Short description of the project.  
+- **[Project 2 Name](https://github.com/AhadArif/Blog-Project-MongoDB)** - Short description of the project.  
 
 ---
 
